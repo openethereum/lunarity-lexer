@@ -2,7 +2,7 @@
 
 A high performance, correctness-oriented Solidity parser + other tools.
 
-The produced AST is mostly [grammar.txt](https://github.com/ethereum/solidity/blob/develop/docs/grammar.txt) compliant.
+The produced AST is mostly [solidity grammar]([https://github.com/ethereum/solidity/blob/develop/docs/grammar.txt](https://github.com/ethereum/solidity/blob/develop/docs/grammar/SolidityLexer.g4)) compliant.
 The AST is statically typed to make sure that it is not possible to construct an AST representation of what would be
 illegal grammar.
 
